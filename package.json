@@ -2,13 +2,13 @@
   "name": "js-essential-for-automation",
   "version": "1.0.0",
   "description": "Learning js and node.js",
-  "homepage": "https://github.com/Osmangani99/javaScriptHome#readme",
+  "homepage": "https://github.com/Osmangani99/js-essential-for-automation#readme",
   "bugs": {
-    "url": "https://github.com/Osmangani99/javaScriptHome/issues"
+    "url": "https://github.com/Osmangani99/js-essential-for-automation/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Osmangani99/javaScriptHome.git"
+    "url": "git+https://github.com/Osmangani99/js-essential-for-automation.git"
   },
   "license": "ISC",
   "author": "",
